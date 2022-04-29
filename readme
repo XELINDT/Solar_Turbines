@@ -1,1 +1,8 @@
 This is the documentation of my code used for solar turbines.
+  data_exploration: The original code we used to clean the data and declare initial reusults 
+  Challenge I: The code we used to clean and create a regresion equation. Output was specifically modified so that it could be used in a tableau dashboard
+  Dashboard I: The dashboard used to help them discover an optimal quantity to order such that parts would arrive on time
+  Challenge II: the code use to make a forecast r-squared based model used to help show what economic factors affect their market position
+  Dashboard II: The results of the 3 models we created in challenge 2
+  Challenge III: The code used to help track scrapped parts in their system
+  Dashboard III: the tableau dashboard used to show results
