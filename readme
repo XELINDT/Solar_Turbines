@@ -1,3 +1,5 @@
+•	Project descriptions include: optimizing order quantity to reduce lead time, forecasting demand, purchase orders and customer services, and detecting scrapping issues
+
 This is the documentation of my code used for solar turbines.
   Challenge I: The code we used to clean and create a regresion equation. Output was specifically modified so that it could be used in a tableau dashboard
   Dashboard I: The dashboard used to help them discover an optimal quantity to order such that parts would arrive on time
